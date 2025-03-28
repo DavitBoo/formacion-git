@@ -4,5 +4,6 @@
     <p>Expertos en marketing digital y desarrollo web</p>
     <p>Somo expertos en control de versiones</p>
     <p>HELLO</p>
+    <p>puedo cambiar cosas?</p>
 </main>
 <?php include 'includes/footer.php'; ?>
