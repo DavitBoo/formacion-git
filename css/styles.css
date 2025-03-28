@@ -34,3 +34,69 @@ footer {
     bottom: 0;
     width: 100%;
 }
+@font-face {
+    font-family: 'Minecraft';    
+    src: url('assets/Minecraft.ttf')  format('truetype'); 
+  }
+
+body{
+    font-size: 12pt;
+    margin: 0;
+    background: black;
+    text-align:center;
+}
+
+#main{
+    max-width: 75vh;
+    margin: auto;
+}
+
+#score{
+    float: left;
+    font-family: "Minecraft";
+    font-size: 2em;
+    padding: 30px;
+    color: white;
+    text-align: left;
+    width: 50%;
+}
+
+#canvas{
+    display: inline;
+    
+    text-align:center;
+    margin: 10px;
+}
+
+#lives{
+    text-align: left;    
+}
+
+#lives img{
+    width: 2em;
+    padding: 10px;
+    image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+    image-rendering: -moz-crisp-edges;          /* Firefox                        */
+    image-rendering: -o-crisp-edges;            /* Opera                          */
+    image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+    image-rendering: pixelated;                 /* Chrome */
+    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+    -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
+
+#volume {
+    float: right;
+    margin-top: 20px;
+    background-image: url('assets/sound_on.png');
+    background-repeat: no-repeat;
+    background-size: 48px 48px;
+    width: 48px;
+    height: 48px;
+    image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+    image-rendering: -moz-crisp-edges;          /* Firefox                        */
+    image-rendering: -o-crisp-edges;            /* Opera                          */
+    image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+    image-rendering: pixelated;                 /* Chrome */
+    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+    -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
