@@ -7,8 +7,7 @@
     <p>David</p>
     <p>Bea</p>
     <p>Kristina</p>
-    <ul>
-        <li>Juanfe</li>
-    </ul>
+    <p>Aizea</p>
+    <p>Janire</p>
 </main>
 <?php include 'includes/footer.php'; ?>
