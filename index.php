@@ -7,5 +7,19 @@
     <p>puedo cambiar cosas?</p>
     <p>BLABLABLA</p>
     <img src="assets/gatocomuneuropeo-97.webp" alt="">
+  
+
+
+    <div id="main">
+      <header>
+        <div id="score">0</div>
+        <div id="volume"></div>
+      </header>
+      <canvas id="canvas"></canvas>
+      <div id="lives">0</div>
+      <!--<canvas id="path"></canvas>-->
+    </div>
+  </body>
+
 </main>
 <?php include 'includes/footer.php'; ?>
