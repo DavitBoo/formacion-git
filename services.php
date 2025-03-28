@@ -4,6 +4,7 @@
     <ul>
         <li>Diseño y desarrollo web</li>
         <li>SEO y posicionamiento</li>
+        <li>SEM</li>
         <li>Gestión de redes sociales</li>
     </ul>
 </main>
