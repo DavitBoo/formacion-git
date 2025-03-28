@@ -6,5 +6,6 @@
     <p>HELLO</p>
     <p>puedo cambiar cosas?</p>
     <p>BLABLABLA</p>
+    <img src="assets/gatocomuneuropeo-97.webp" alt="">
 </main>
 <?php include 'includes/footer.php'; ?>
