@@ -3,7 +3,7 @@
 </footer>
 
 <?php
-include '../gorka.php'
+include '../gorka.php';
 ?>
 </body>
 
